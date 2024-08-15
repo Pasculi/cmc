@@ -3,14 +3,17 @@
   bottom:0px;
   right: 0px;
   background-color: #ffffff;
-  font-family: 'Source Sans Pro',
-sans-serif;
   font-size: 14px;
   color:#224377;
   font-weight: 600;
   border-radius: 25px 0 0 0;
-  border:none;
-  outline: 1px solid #224377;
+  border:1px solid #224377;
+  border-bottom:none;
+  border-right:none;
   padding: 15px 50px;
   cursor:pointer;
+  transition:background-color 1s;
+}
+.header__admin:hover{
+  background-color: #dee4ee;
 }

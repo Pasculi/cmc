@@ -1,0 +1,23 @@
+.form__button {
+  background-color: #0443a7;
+  border-radius   : 0;
+  font-weight     : normal;
+  line-height     : 1.428571429;
+  text-align      : center;
+  white-space     : nowrap;
+  vertical-align  : middle;
+  cursor          : pointer;
+  background-image: none;
+  border          : 1px solid #d2d2d2;
+  letter-spacing  : -1px;
+  width           : fit-content;
+  color           : #FFF;
+  font-size: 1rem;
+  padding:10px 30px;
+  transition: background-color .5s;
+}
+
+.form__button:hover{
+  background-color: #226add;
+
+}

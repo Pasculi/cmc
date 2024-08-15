@@ -1,0 +1,6 @@
+.form__button-footer{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-self:center;
+}

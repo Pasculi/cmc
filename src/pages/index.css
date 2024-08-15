@@ -3,4 +3,26 @@
 
 /*HEADER*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__admin/header__admin.css)
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__titulo/header__titulo.css);
+@import url(../blocks/header/__admin/header__admin.css);
+
+/*NAVBAR*/
+
+@import url(../blocks/navbar/navbar.css);
+
+/*BUSCAR*/
+@import url(../blocks/group-buscar/group-buscar.css);
+
+/*FORM*/
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__link/form__link.css);
+@import url(../blocks/form/__titulo/form__titulo.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__group/form__group-input.css);
+@import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/form/__button/form__button-footer.css);
+
+/*FOOTER*/
+@import url(../blocks/footer/footer.css);

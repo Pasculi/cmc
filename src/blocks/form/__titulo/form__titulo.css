@@ -1,0 +1,14 @@
+.form__titulo{
+  display: flex;
+  column-gap: 5px;
+  background-color: #0443a7;
+  color:#fff;
+  margin-top: 10px;
+  width: fit-content;
+  padding:0 15px;
+  position: relative;
+  left: -20px;
+  align-items:center;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30),
+0 15px 12px rgba(0, 0, 0, 0.22);
+}

@@ -1,0 +1,10 @@
+.form__input{
+  width: 280px;
+  height: 30px;
+  padding:0 10px
+}
+
+.form__input:hover{
+  outline: 1px solid blue;
+
+}
